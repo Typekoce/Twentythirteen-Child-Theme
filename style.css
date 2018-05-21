@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Twentythirteen Child
+ Theme URI:    http://wordpress49.base/twentythirteen-child
+ Description:  Twentythirteen Child Theme
+ Author:       Eclipse Software
+ Author URI:   http://wordpress49.base/
+ Template:     twentythirteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentythirteen-child
+ */
+
+/** Child theme style**/
+#eclipse_search_results_header .col2 {
+	width:116px;
+}
