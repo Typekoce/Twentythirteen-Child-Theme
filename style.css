@@ -16,3 +16,61 @@
 #eclipse_search_results_header .col2 {
 	width:116px;
 }
+
+/** job details layout 1 **/
+.vacancy-layout-1 #eclipse_vacancy {
+}
+
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta {
+
+}
+
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-lbl {
+
+}
+
+.vacancy-layout-1 #eclipse_vacancy .vacancy-meta .vac-val {
+
+}
+
+.vacancy-layout-1 #eclipse_vacancy .vacancy-action {
+}
+/** job details layout 1 **/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/** job board layout 2 **/
+#eclipse_job_board .vacancy-layout-2 .vacancy-meta {
+
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-meta .vac-lbl {
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-meta .vac-val {
+
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-action {
+
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-action .action-buttons a {
+
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-action .action-buttons .button-apply {
+
+}
+
+#eclipse_job_board .vacancy-layout-2 .vacancy-description {
+
+}
+/** job board layout 2 **/
